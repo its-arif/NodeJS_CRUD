@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Antor-094/NodeJS_CRUD.git"
+    "url": "git+https://github.com/its-arif/NodeJS_CRUD.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Antor-094/NodeJS_CRUD/issues"
+    "url": "https://github.com/Antor-094/NodeJS_CRUDr-094/NodeJS_CRUD/issues"
   },
-  "homepage": "https://github.com/Antor-094/NodeJS_CRUD#readme",
+  "homepage": "https://github.com/its-arif/NodeJS_CRUD.git#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "body-parser": "^1.19.2",
